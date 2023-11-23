@@ -1,5 +1,94 @@
 ### **Data Structures and Algorithms (DSA) w/ awkwardpy:**
 
+Certainly! Here's the same table of contents formatted with lines:
+
+```plaintext
+╔════════════════════════════════════════╗
+║         Table of Contents              ║
+╠════════════════════════════════════════╣
+║ 1. Introduction to DSA                ║
+║    - 1.1 What is DSA?                 ║
+║    - 1.2 Importance of DSA in Prog... ║
+║    - 1.3 Real-World Applications       ║
+╠════════════════════════════════════════╣
+║ 2. Programming Basics                 ║
+║    - 2.1 Choosing a Programming La... ║
+║    - 2.2 Basics of Time and Space C... ║
+╠════════════════════════════════════════╣
+║ 3. Arrays and Strings                  ║
+║    - 3.1 Introduction to Arrays       ║
+║    - 3.2 Array Operations: Inserti... ║
+║    - 3.3 Introduction to Strings      ║
+║    - 3.4 String Operations: Concat... ║
+╠════════════════════════════════════════╣
+║ 4. Linked Lists                        ║
+║    - 4.1 Singly Linked Lists           ║
+║    - 4.2 Doubly Linked Lists           ║
+║    - 4.3 Operations on Linked Lists    ║
+║    - 4.4 Advantages and Disadvantages ║
+╠════════════════════════════════════════╣
+║ 5. Stacks and Queues                   ║
+║    - 5.1 Introduction to Stacks an... ║
+║    - 5.2 Operations on Stacks and Q...║
+║    - 5.3 Applications in Real Life    ║
+╠════════════════════════════════════════╣
+║ 6. Trees                               ║
+║    - 6.1 Introduction to Trees         ║
+║    - 6.2 Binary Trees                  ║
+║    - 6.3 Tree Traversal: Inorder, P... ║
+║    - 6.4 Binary Search Trees (BST)    ║
+║    - 6.5 AVL Trees                     ║
+╠════════════════════════════════════════╣
+║ 7. Graphs                              ║
+║    - 7.1 Introduction to Graphs        ║
+║    - 7.2 Graph Representation: Adja... ║
+║    - 7.3 Graph Traversal: DFS, BFS     ║
+║    - 7.4 Shortest Path Algorithms: ... ║
+║    - 7.5 Minimum Spanning Tree: Kru...║
+╠════════════════════════════════════════╣
+║ 8. Advanced Data Structures            ║
+║    - 8.1 Hashing                       ║
+║    - 8.2 Hash Tables                   ║
+║    - 8.3 Heaps and Priority Queues    ║
+║    - 8.4 Advanced Trees: Red-Black ... ║
+╠════════════════════════════════════════╣
+║ 9. Sorting and Searching Algorithms    ║
+║    - 9.1 Sorting Algorithms: Bubble... ║
+║    - 9.2 Searching Algorithms: Bina...║
+╠════════════════════════════════════════╣
+║ 10. Dynamic Programming                ║
+║    - 10.1 Introduction to Dynamic P...║
+║    - 10.2 Overlapping Subproblems a... ║
+║    - 10.3 Solving Problems using Dyn...║
+╠════════════════════════════════════════╣
+║ 11. Problem Solving                    ║
+║    - 11.1 Online Judges and Platfor... ║
+║    - 11.2 Competitive Programming      ║
+╠════════════════════════════════════════╣
+║ 12. Real-World
+
+ Applications                            ║
+║    - 12.1 Applying DSA Concepts to ... ║
+║    - 12.2 Contributing to Open-Sour... ║
+╠════════════════════════════════════════╣
+║ 13. Interview Preparation               ║
+║    - 13.1 Common Interview Questions   ║
+║    - 13.2 Problem-Solving Strategies   ║
+║    - 13.3 Mock Interviews and Practice ║
+╠════════════════════════════════════════╣
+║ 14. Tips for Learning DSA               ║
+║    - 14.1 Consistent Practice           ║
+║    - 14.2 Understanding the Basics      ║
+║    - 14.3 Solving Problems              ║
+║    - 14.4 Collaborating and Learning    ║
+║    - 14.5 Staying Updated               ║
+╠════════════════════════════════════════╣
+║ 15. Conclusion                         ║
+║    - 15.1 Recap of Key Concepts        ║
+║    - 15.2 Journey Towards Mastery      ║
+╚════════════════════════════════════════╝
+```
+
 #### **1. Data Structures:**
 
 **Definition:** Data structures are specialized formats for organizing and storing data in a computer so that it can be used efficiently.
