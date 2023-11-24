@@ -36,7 +36,7 @@ Certainly! Here's the same table of contents formatted with lines:
 ║    - 6.1 Introduction to Trees         ║
 ║    - 6.2 Binary Trees                  ║
 ║    - 6.3 Tree Traversal: Inorder, P... ║
-║    - 6.4 Binary Search Trees (BST)    ║
+║    - 6.4 Binary Search Trees (BST)     ║
 ║    - 6.5 AVL Trees                     ║
 ╠════════════════════════════════════════╣
 ║ 7. Graphs                              ║
