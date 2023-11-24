@@ -85,7 +85,7 @@ Certainly! Here's the same table of contents formatted with lines:
 ║    - 15.1 Recap of Key Concepts        ║
 ║    - 15.2 Journey Towards Mastery      ║
 ╚════════════════════════════════════════╝
-
+```
 
 #### **1. Data Structures:**
 
