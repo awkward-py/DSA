@@ -25,7 +25,7 @@ Certainly! Here's the same table of contents formatted with lines:
 ║    - 4.1 Singly Linked Lists           ║
 ║    - 4.2 Doubly Linked Lists           ║
 ║    - 4.3 Operations on Linked Lists    ║
-║    - 4.4 Advantages and Disadvantages ║
+║    - 4.4 Advantages and Disadvantages  ║
 ╠════════════════════════════════════════╣
 ║ 5. Stacks and Queues                   ║
 ║    - 5.1 Introduction to Stacks an... ║
