@@ -16,10 +16,10 @@ Certainly! Here's the same table of contents formatted with lines:
 ║    - 2.2 Basics of Time and Space C... ║
 ╠════════════════════════════════════════╣
 ║ 3. Arrays and Strings                  ║
-║    - 3.1 Introduction to Arrays       ║
-║    - 3.2 Array Operations: Inserti... ║
-║    - 3.3 Introduction to Strings      ║
-║    - 3.4 String Operations: Concat... ║
+║    - 3.1 Introduction to Arrays        ║
+║    - 3.2 Array Operations: Inserti...  ║
+║    - 3.3 Introduction to Strings       ║
+║    - 3.4 String Operations: Concat...  ║
 ╠════════════════════════════════════════╣
 ║ 4. Linked Lists                        ║
 ║    - 4.1 Singly Linked Lists           ║
