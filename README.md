@@ -6,9 +6,9 @@ Certainly! Here's the same table of contents formatted with lines:
 ╔════════════════════════════════════════╗
 ║         Table of Contents              ║
 ╠════════════════════════════════════════╣
-║ 1. Introduction to DSA                ║
-║    - 1.1 What is DSA?                 ║
-║    - 1.2 Importance of DSA in Prog... ║
+║ 1. Introduction to DSA                 ║
+║    - 1.1 What is DSA?                  ║
+║    - 1.2 Importance of DSA in Prog...  ║
 ║    - 1.3 Real-World Applications       ║
 ╠════════════════════════════════════════╣
 ║ 2. Programming Basics                 ║
