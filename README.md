@@ -28,9 +28,9 @@ Certainly! Here's the same table of contents formatted with lines:
 ║    - 4.4 Advantages and Disadvantages  ║
 ╠════════════════════════════════════════╣
 ║ 5. Stacks and Queues                   ║
-║    - 5.1 Introduction to Stacks an... ║
-║    - 5.2 Operations on Stacks and Q...║
-║    - 5.3 Applications in Real Life    ║
+║    - 5.1 Introduction to Stacks an...  ║
+║    - 5.2 Operations on Stacks and Q... ║
+║    - 5.3 Applications in Real Life     ║
 ╠════════════════════════════════════════╣
 ║ 6. Trees                               ║
 ║    - 6.1 Introduction to Trees         ║
