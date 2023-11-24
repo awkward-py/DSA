@@ -44,12 +44,12 @@ Certainly! Here's the same table of contents formatted with lines:
 ║    - 7.2 Graph Representation: Adja... ║
 ║    - 7.3 Graph Traversal: DFS, BFS     ║
 ║    - 7.4 Shortest Path Algorithms: ... ║
-║    - 7.5 Minimum Spanning Tree: Kru...║
+║    - 7.5 Minimum Spanning Tree: Kru... ║
 ╠════════════════════════════════════════╣
 ║ 8. Advanced Data Structures            ║
 ║    - 8.1 Hashing                       ║
 ║    - 8.2 Hash Tables                   ║
-║    - 8.3 Heaps and Priority Queues    ║
+║    - 8.3 Heaps and Priority Queues     ║
 ║    - 8.4 Advanced Trees: Red-Black ... ║
 ╠════════════════════════════════════════╣
 ║ 9. Sorting and Searching Algorithms    ║
