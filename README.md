@@ -2,7 +2,7 @@
 
 Certainly! Here's the same table of contents formatted with lines:
 
-
+```
 ╔════════════════════════════════════════╗
 ║         Table of Contents              ║
 ╠════════════════════════════════════════╣
