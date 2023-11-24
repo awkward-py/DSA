@@ -69,14 +69,14 @@ Certainly! Here's the same table of contents formatted with lines:
 ║    - 12.1 Applying DSA Concepts to ... ║
 ║    - 12.2 Contributing to Open-Sour... ║
 ╠════════════════════════════════════════╣
-║ 13. Interview Preparation               ║
+║ 13. Interview Preparation              ║
 ║    - 13.1 Common Interview Questions   ║
 ║    - 13.2 Problem-Solving Strategies   ║
 ║    - 13.3 Mock Interviews and Practice ║
 ╠════════════════════════════════════════╣
-║ 14. Tips for Learning DSA               ║
-║    - 14.1 Consistent Practice           ║
-║    - 14.2 Understanding the Basics      ║
+║ 14. Tips for Learning DSA              ║
+║    - 14.1 Consistent Practice          ║
+║    - 14.2 Understanding the Basics     ║
 ║    - 14.3 Solving Problems              ║
 ║    - 14.4 Collaborating and Learning    ║
 ║    - 14.5 Staying Updated               ║
