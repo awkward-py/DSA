@@ -65,9 +65,7 @@ Certainly! Here's the same table of contents formatted with lines:
 ║    - 11.1 Online Judges and Platfor... ║
 ║    - 11.2 Competitive Programming      ║
 ╠════════════════════════════════════════╣
-║ 12. Real-World
-
- Applications                            ║
+║ 12. Real-World Applications            ║
 ║    - 12.1 Applying DSA Concepts to ... ║
 ║    - 12.2 Contributing to Open-Sour... ║
 ╠════════════════════════════════════════╣
