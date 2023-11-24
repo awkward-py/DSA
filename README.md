@@ -11,8 +11,8 @@ Certainly! Here's the same table of contents formatted with lines:
 ║    - 1.2 Importance of DSA in Prog...  ║
 ║    - 1.3 Real-World Applications       ║
 ╠════════════════════════════════════════╣
-║ 2. Programming Basics                 ║
-║    - 2.1 Choosing a Programming La... ║
+║ 2. Programming Basics                  ║
+║    - 2.1 Choosing a Programming La...  ║
 ║    - 2.2 Basics of Time and Space C... ║
 ╠════════════════════════════════════════╣
 ║ 3. Arrays and Strings                  ║
