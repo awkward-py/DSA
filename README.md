@@ -54,10 +54,10 @@ Certainly! Here's the same table of contents formatted with lines:
 ╠════════════════════════════════════════╣
 ║ 9. Sorting and Searching Algorithms    ║
 ║    - 9.1 Sorting Algorithms: Bubble... ║
-║    - 9.2 Searching Algorithms: Bina...║
+║    - 9.2 Searching Algorithms: Bina... ║
 ╠════════════════════════════════════════╣
 ║ 10. Dynamic Programming                ║
-║    - 10.1 Introduction to Dynamic P...║
+║    - 10.1 Introduction to Dynamic P... ║
 ║    - 10.2 Overlapping Subproblems a... ║
 ║    - 10.3 Solving Problems using Dyn...║
 ╠════════════════════════════════════════╣
