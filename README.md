@@ -77,9 +77,9 @@ Certainly! Here's the same table of contents formatted with lines:
 ║ 14. Tips for Learning DSA              ║
 ║    - 14.1 Consistent Practice          ║
 ║    - 14.2 Understanding the Basics     ║
-║    - 14.3 Solving Problems              ║
-║    - 14.4 Collaborating and Learning    ║
-║    - 14.5 Staying Updated               ║
+║    - 14.3 Solving Problems             ║
+║    - 14.4 Collaborating and Learning   ║
+║    - 14.5 Staying Updated              ║
 ╠════════════════════════════════════════╣
 ║ 15. Conclusion                         ║
 ║    - 15.1 Recap of Key Concepts        ║
