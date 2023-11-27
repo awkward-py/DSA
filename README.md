@@ -1,6 +1,5 @@
 ### **Data Structures and Algorithms (DSA) w/ awkwardpy:**
 
-Certainly! Here's the same table of contents formatted with lines:
 
 ```
 ╔════════════════════════════════════════╗
