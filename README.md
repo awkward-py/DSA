@@ -281,3 +281,4 @@ In this case, `guess_number` is an algorithm. It helps you guess a number by giv
 - **Data Structures** are like different types of containers for information.
 - **Algorithms** are step-by-step instructions for solving a problem.
 - They work together. You choose the right data structure based on your problem and use algorithms to manipulate the data within that structure.
+  
