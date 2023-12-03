@@ -275,7 +275,6 @@ def guess_number(secret_number, guess):
         return "Too high, guess lower."
 ```
 
-In this case, `guess_number` is an algorithm. It helps you guess a number by giving hints if your guess is too low or too high.
 
 **In Summary:**
 - **Data Structures** are like different types of containers for information.
